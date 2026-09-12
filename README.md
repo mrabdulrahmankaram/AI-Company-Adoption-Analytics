@@ -1,24 +1,32 @@
 # AI-Company-Adoption-Analytics
-# 🤖 Global AI Adoption & Workforce Impact Analytics
+# Graduation Project: Global AI Adoption & Workforce Impact Analytics
+
+## 👨‍🎓 Team Members
+* **Salma Mahmoud & Mohamed Arafa:** Data Cleaning & Processing (Python & Excel)
+* **Abdulrahman Alaa:** SQL Analysis & Business Queries
+* **Abdulrahman Karam & Mahmoud Hossam:** Visualizations & Dashboards (Power BI & Excel)
+
+---
 
 ## 📌 Project Overview
-This project presents an end-to-end data analytics study analyzing company-level AI adoption data across 150,000 records. It explores how companies are adopting AI, the resulting business impact (productivity, revenue, cost reduction), workforce shifts (job creation vs. displacement), and the implementation risks associated with AI maturity and failure rates.
+This project analyzes company-level AI adoption data across 150,000 records to study:
+1. AI Adoption rates across industries and regions.
+2. Business impact (productivity, revenue, cost reduction).
+3. Workforce shifts (job creation vs. job displacement).
+4. AI implementation risks and maturity levels.
 
 ---
 
-## 🎯 Business Problem & Objectives
-As AI adoption accelerates globally, organizations face several challenges:
-1. **Unclear Business Value:** Difficulty quantifying AI’s real impact on productivity and revenue.
-2. **Varying Adoption Levels:** Disparities across industries, regions, and company sizes.
-3. **Workforce Impact:** Navigating job creation vs. role displacement.
-4. **Implementation Risks:** Managing high failure rates, compliance issues, and low AI maturity.
-5. **Strategic Investment:** Identifying high-impact AI use cases for effective resource allocation.
+## 🛠️ Tools & Technologies Used
+* **Python (Pandas):** Data cleaning and preprocessing.
+* **SQL:** Business logic and data aggregation.
+* **Power BI & Excel:** Interactive dashboards and report visualizations.
+* **PowerPoint:** Final team presentation slides.
 
 ---
 
-## 🛠️ Tech Stack & Workflow
-The analysis follows a structured data pipeline:
-* **Data Cleaning & Transformation:** Python (Pandas) & Power Query
-* **Business Analysis & Aggregation:** SQL
-* **Visualization & Dashboards:** Power BI & Microsoft Excel
-* **Presentation:** Microsoft PowerPoint
+## 📁 Repository Contents
+* `/Data_Cleaning/` : Python notebooks used for data transformation.
+* `/SQL/` : SQL scripts for business analytics queries.
+* `/Dashboards/` : Power BI (.pbix) and Excel dashboard files.
+* `/Presentation/` : Final PowerPoint presentation slides.
