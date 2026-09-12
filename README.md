@@ -1,3 +1,6 @@
+<img width="1910" height="796" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/4f46ceca-3048-45ca-90af-8e5c5e078674" />
+<img width="1920" height="799" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/a691e02f-febd-475f-9e88-f8807447e50e" />
+<img width="1920" height="808" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/772d1fd4-b75b-4e4b-81b2-a7e746bcb331" />
 # AI-Company-Adoption-Analytics
 # Graduation Project: Global AI Adoption & Workforce Impact Analytics
 
